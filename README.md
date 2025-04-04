@@ -24,7 +24,7 @@ A computer vision application that detects and classifies nuts and washers in im
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/nut-washer-detector.git
+   git clone https://github.com/natadecua/nut-washer-detector.git
    cd nut-washer-detector
    ```
 
